@@ -2,33 +2,37 @@ final hallInfo = {
   "MH": {
     "Provosot": Person(
         department: "Department of Physics",
-        designation: "Provost",
-        email: "fdjhfjdha",
-        name: "fdsf",
-        number: "",
-        other: ""),
+        designation: "Professor",
+        email: "rahmanju83@gmail.com",
+        name: "Dr Md Obaidur rahman",
+        number: "8801553137917",
+        other: "Provosot"),
     "Warden": Person(
         department: "Department of Statistics",
-        designation: "Associate Professor, Department of Statistics",
+        designation: "Associate Professor",
         email: "hossainmm@juniv.edu ",
         name: "Md. Moyazzem Hossain",
         number: "+8801716657066",
         other: "Warden"),
-    "Provosot": Person(
-        department: "Department of Physics",
-        designation: "Provost",
-        email: "fdjhfjdha",
-        name: "fdsf",
-        number: "",
-        other: ""),
-    "Provosot": Person(
-        department: "Department of Physics",
-        designation: "Provost",
-        email: "fdjhfjdha",
-        name: "fdsf",
-        number: "",
-        other: ""),
+
+    "Warden": Person(
+        department: "Department of Mathematics",
+        designation: "Professor",
+        email: "ju_sabbir@juniv.edu",
+        name: "Dr. Md. Sabbir Alam",
+        number: "8801972150684",
+        other: "Warden"),
+
+    " ": Person(
+        department: "   ",
+        designation: "  ",
+        email: "   ",
+        name: "   ",
+        number: "  ",
+        other: "  "),
   }
+
+
   "BBH": Person(
       department: "Department of Physics",
       designation: "Provost",
