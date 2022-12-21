@@ -7,13 +7,13 @@ final hallInfo = {
         name: "fdsf",
         number: "",
         other: ""),
-    "Provosot": Person(
-        department: "Department of Physics",
-        designation: "Provost",
-        email: "fdjhfjdha",
-        name: "fdsf",
-        number: "",
-        other: ""),
+    "Warden": Person(
+        department: "Department of Statistics",
+        designation: "Associate Professor, Department of Statistics",
+        email: "hossainmm@juniv.edu ",
+        name: "Md. Moyazzem Hossain",
+        number: "+8801716657066",
+        other: "Warden"),
     "Provosot": Person(
         department: "Department of Physics",
         designation: "Provost",
@@ -61,4 +61,3 @@ class Person {
     required this.other});
 }
 
-test per
