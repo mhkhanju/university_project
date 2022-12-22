@@ -108,24 +108,124 @@ final hallInfo = {
         number: "8801711907107",
         other: "Provosot"),
   }
+  "Al Beruni Hall":{
+    " Provost ": Person(
+        department: " Department of Archaeology  ",
+        designation: " Associate Professor ",
+        email: " zulkernines@juniv.edu  ",
+        name: " Sikder Md Zulkernine  ",
+        number: " 8801740977954 ",
+        other: " Provost "),
+  }
+  "Shaheed Rafiq-Jabbar Hall": {
+    "  Provost  ": Person(
+        department: "  Department of Biochemistry & Molecular Biology ",
+        designation: " Professor ",
+        email: " drsahmed_bmbju@juniv.edu  ",
+        name: "  Dr. Sohel Ahmed  ",
+        number: "  ",
+        other: "  Provost  "),
+  }
+  "A F M Kamaluddin Hall": {
+    "  Provost ": Person(
+        department: "  Department of Government & Politics  ",
+        designation: " Associate Professor",
+        email: " firoz_gp@juniv.edu  ",
+        name: " A S M Firoz Ul Hasan ",
+        number: "  ",
+        other: "  Provost  "),
+  }
+  "Mowlana Bhashani Hall": {
+    "  Provost ": Person(
+        department: " Department of Geological Sciences  ",
+        designation: " Professor ",
+        email: " sayem@juniv.edu  ",
+        name: "  Dr. Hossain Md. Sayem ",
+        number: "  ",
+        other: "  Provost  "),
+  }
+  "Bishwakabi Rabindranath Tagore Hall": {
+    "  Provost  ": Person(
+        department: " Department of International Relations  ",
+        designation: " Professor ",
+        email: "  kafi.juniv@juniv.edu ",
+        name: " Dr.Abdullah Hel Kafi  ",
+        number: "  ",
+        other: "   Provost "),
+  }
+  "Jahanara Imam Hall": {
+    "  Provost ": Person(
+        department: " Department of Computer Science and Engineering ",
+        designation: " Professor ",
+        email: "  cedas@juniv.edu ",
+        name: "  Dr. Jugal Krishna Das, B.Sc(Donetsk), MSc.(Donetsk), PhD(Kiev) ",
+        number: "  ",
+        other: "  Provost  "),
+  }
+  "Nawab Faizunnesa Hall": {
+    "  Provost  ": Person(
+        department: " Department of Bangla  ",
+        designation: " Professor ",
+        email: " nahid.juniv.bangla@juniv.edu  ",
+        name: " Dr. Nahid Haque ",
+        number: "  ",
+        other: "  Provost   "),
+  }
+  "Pritilata Hall": {
+    "  Provost  ": Person(
+        department: " Department of Economics  ",
+        designation: " Associate Professor ",
+        email: " asiddika12@juniv.edu  ",
+        name: " Ayesha Siddika  ",
+        number: "  ",
+        other: "  Provost  "),
+  }
+  "Fazilatunnesa Hall": {
+    "  Provost  ": Person(
+        department: " Department of History  ",
+        designation: " Professor ",
+        email: " atique.history@juniv.edu   ",
+        name: " Dr. A.T.M. Atiqur Rahman  ",
+        number: "  ",
+        other: "  Provost  "),
+  }
+  "Begum Khaleda Zia Hall": {
+    "  Provost  ": Person(
+        department: " Department of Zoology ",
+        designation: " Associate Professor ",
+        email: " lipi_ju05@juniv.edu ",
+        name: "  Tahmina Akter ",
+        number: " 01686238849 ",
+        other: "  Provost  "),
+  }
+  "Sheikh Hasina Hall": {
+    "  Provost  ": Person(
+        department: "  Department of History ",
+        designation: " Associate Professor ",
+        email: "  arahosne1976@juniv.edu ",
+        name: " Hosne Ara  ",
+        number: "  ",
+        other: "  Provost  "),
+  }
+  "Bangamata Begum Fazilatunnessa Mujib Hall": {
+    "  Provost  ": Person(
+        department: " Department of Statistics  ",
+        designation: " Professor ",
+        email: " muzib378@juniv.edu  ",
+        name: "  Dr. Mohd. Muzibur Rahman ",
+        number: "  ",
+        other: "  Provost  "),
+  }
+  "Begum Sufia Kamal Hall": {
+    "  Provost  ": Person(
+        department: " Institute of Business Administration  ",
+        designation: " Professor ",
+        email: " mdmotaher@juniv.edu  ",
+        name: "  Dr. Md. Motaher Hossain ",
+        number: " 8801758191428 ",
+        other: "  Provost  "),
+  }
 
-
-
-
-
-
-
-
-
-
-
-  "Kamaluddin": Person(
-      department: "Department of Physics",
-      designation: "Provost",
-      email: "fdjhfjdha",
-      name: "fdsf",
-      number: "",
-      other: ""),
 };
 
 class Person {
