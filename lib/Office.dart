@@ -270,15 +270,42 @@ final OfficeInfo = {
 
   "ICT Cell ":{
     " Teacher in Charge ": Person(
-        department: "  ",
-        designation: " ",
-        email: " ",
+        department: " Department of Computer Science and Engineering ",
+        designation: " Professor ",
+        email: " shorifuddin@juniv.edu.bd  ",
         name: " Dr. Mohammad Shorif Uddin, B.Sc. Engg. (BUET), M.Tech.Ed.(Japan), Ph.D.(Japan) ",
-        number: " ",
-        other: " "),
+        number: " 8801747615832",
+        other: " Teacher in Charge "),
   }
 
-  " ":{
+  " Planning and Development Office":{
+    " Director": Person(
+        department: "  ",
+        designation: " ",
+        email: " ",
+        name: "Engineer Md. Nasir Uddin",
+        number: " ",
+        other: " Director"),
+
+    " Assistant Director": Person(
+        department: "  ",
+        designation: " ",
+        email: " engr.fahmidamasud@gmail.com ",
+        name: " Engineer Fahmida Masud ",
+        number: " ",
+        other: "Assistant Director "),
+
+    " Director": Person(
+        department: "  ",
+        designation: " ",
+        email: "  pdo_ju@yahoo.com",
+        name: " Engineer Md. Nasir Uddin ",
+        number: "Office Phone: 7791045-51 Ext.1553 ",
+        other: " Director"),
+
+  }
+
+  " Public Relation Office":{
     " ": Person(
         department: "  ",
         designation: " ",
@@ -288,24 +315,84 @@ final OfficeInfo = {
         other: " "),
   }
 
-  " ":{
-    " ": Person(
+  " Physical Education Office":{
+    "Director (Acting) ": Person(
         department: "  ",
         designation: " ",
         email: " ",
-        name: " ",
+        name: " Habiba Yasmin ",
         number: " ",
-        other: " "),
+        other: " Director (Acting)"),
   }
 
-  " ":{
-    " ": Person(
+  " Office of the Controller of Examinations":{
+    " Controller of Examinations (Acting)": Person(
+        department: "  ",
+        designation: " ",
+        email: " examoffice@juniv.edu",
+        name: " Md. Masudur Rahman",
+        number: " Office Phone: +880-2-7791053 Ext.1233, 1234, 1548",
+        other: " Controller of Examinations (Acting)"),
+  }
+
+  "Internal Audit Office ":{
+    " Head of Office (Acting) & Deputy Comptroller (Audit)": Person(
+        department: "  ",
+        designation: " ",
+        email: "  internal.audit@juniv.edu ",
+        name: "Zahedul Haque ",
+        number: " 01814912639 ",
+        other: "Head of Office (Acting) & Deputy Comptroller (Audit)"),
+
+    " Deputy Comptroller(Audit)": Person(
         department: "  ",
         designation: " ",
         email: " ",
-        name: " ",
+        name: "Md. Rabiullah ",
         number: " ",
-        other: " "),
+        other: "Deputy Comptroller(Audit) "),
+
+    " Assistant Comptroller(Audit) ": Person(
+        department: "  ",
+        designation: " ",
+        email: " sumon.bardhan@gmail.com ",
+        name: " Sumon Bardhan ",
+        number: "  01715025081 ",
+        other: " Assistant Comptroller(Audit) "),
+
+    " Administrative Officer ": Person(
+        department: "  ",
+        designation: " ",
+        email: " a.bashar4917@gmail.com ",
+        name: " Md. Abul Bashar ",
+        number: " 01818582783 ",
+        other: " Administrative Officer "),
+
+    " Administrative Officer (Audit)": Person(
+        department: "  ",
+        designation: " ",
+        email: "  anowarjuaudit5@gmail.com",
+        name: " Muhammad Anowar Hossin ",
+        number: " 01912444125 ",
+        other: "Administrative Officer (Audit) "),
+
+    " Office Assistant, Internal Audit Office": Person(
+        department: "  ",
+        designation: " ",
+        email: " jewel.ju43@gmail.com ",
+        name: " Jewel Hossen ",
+        number: "  01759109052 ",
+        other: "Office Assistant, Internal Audit Office "),
+  }
+
+  " University Library ":{
+    " Director": Person(
+        department: " Department of Computer Science and Engineering ",
+        designation: " ",
+        email: "hanif_ju03@juniv.edu ",
+        name: " Dr. Mohammad Hanif Ali, B.Sc(JU), MSc.(JU), PhD(UK) ",
+        number: " ",
+        other: "Director"),
   }
 
   " ":{
