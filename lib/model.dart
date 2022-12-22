@@ -38,11 +38,11 @@ final hallInfo = {
         number: " 8801911291218 ",
         other: " House Tutors "),
     " House Tutors": Person(
-        department: "   ",
-        designation: "  ",
-        email: "   ",
+        department: "  Department of Environmental Sciences ",
+        designation: " Professor ",
+        email: " majibur@juniv.edu  ",
         name: " Dr. Md. Mojibur Rahman  ",
-        number: "  ",
+        number: " 01312112856 ",
         other: " House Tutors "),
     " House Tutors": Person(
         department: "  Department of Environmental Sciences ",
@@ -52,11 +52,11 @@ final hallInfo = {
         number: " 8801717514833 ",
         other: " House Tutors "),
     "Assistant House Tutors": Person(
-        department: "   ",
-        designation: "  ",
-        email: "   ",
+        department: " Institute of Business Administration  ",
+        designation: " Assistant Professor ",
+        email: " badrul.ibaju@yahoo.com",
         name: "  Md. Badrul Alam ",
-        number: "  ",
+        number: " 01845928422 ",
         other: " Assistant House Tutors "),
     "List of Officers": Person(
         department: "   ",
@@ -123,7 +123,7 @@ final hallInfo = {
         designation: " Professor ",
         email: " drsahmed_bmbju@juniv.edu  ",
         name: "  Dr. Sohel Ahmed  ",
-        number: "  ",
+        number: " 01706585499 ",
         other: "  Provost  "),
   }
   "A F M Kamaluddin Hall": {
@@ -132,7 +132,7 @@ final hallInfo = {
         designation: " Associate Professor",
         email: " firoz_gp@juniv.edu  ",
         name: " A S M Firoz Ul Hasan ",
-        number: "  ",
+        number: " 01750122305 ",
         other: "  Provost  "),
   }
   "Mowlana Bhashani Hall": {
@@ -141,7 +141,7 @@ final hallInfo = {
         designation: " Professor ",
         email: " sayem@juniv.edu  ",
         name: "  Dr. Hossain Md. Sayem ",
-        number: "  ",
+        number: " 01716064105 ",
         other: "  Provost  "),
   }
   "Bishwakabi Rabindranath Tagore Hall": {
@@ -150,7 +150,7 @@ final hallInfo = {
         designation: " Professor ",
         email: "  kafi.juniv@juniv.edu ",
         name: " Dr.Abdullah Hel Kafi  ",
-        number: "  ",
+        number: " 01711440784 ",
         other: "   Provost "),
   }
   "Jahanara Imam Hall": {
@@ -159,7 +159,7 @@ final hallInfo = {
         designation: " Professor ",
         email: "  cedas@juniv.edu ",
         name: "  Dr. Jugal Krishna Das, B.Sc(Donetsk), MSc.(Donetsk), PhD(Kiev) ",
-        number: "  ",
+        number: " 01712509082 ",
         other: "  Provost  "),
   }
   "Nawab Faizunnesa Hall": {
@@ -168,7 +168,7 @@ final hallInfo = {
         designation: " Professor ",
         email: " nahid.juniv.bangla@juniv.edu  ",
         name: " Dr. Nahid Haque ",
-        number: "  ",
+        number: " 01678100180 ",
         other: "  Provost   "),
   }
   "Pritilata Hall": {
@@ -177,7 +177,7 @@ final hallInfo = {
         designation: " Associate Professor ",
         email: " asiddika12@juniv.edu  ",
         name: " Ayesha Siddika  ",
-        number: "  ",
+        number: " 01726262492 ",
         other: "  Provost  "),
   }
   "Fazilatunnesa Hall": {
@@ -186,7 +186,7 @@ final hallInfo = {
         designation: " Professor ",
         email: " atique.history@juniv.edu   ",
         name: " Dr. A.T.M. Atiqur Rahman  ",
-        number: "  ",
+        number: " 01829369164 ",
         other: "  Provost  "),
   }
   "Begum Khaleda Zia Hall": {
@@ -204,7 +204,7 @@ final hallInfo = {
         designation: " Associate Professor ",
         email: "  arahosne1976@juniv.edu ",
         name: " Hosne Ara  ",
-        number: "  ",
+        number: " 01773945247 ",
         other: "  Provost  "),
   }
   "Bangamata Begum Fazilatunnessa Mujib Hall": {
@@ -213,7 +213,7 @@ final hallInfo = {
         designation: " Professor ",
         email: " muzib378@juniv.edu  ",
         name: "  Dr. Mohd. Muzibur Rahman ",
-        number: "  ",
+        number: " 01721496324 ",
         other: "  Provost  "),
   }
   "Begum Sufia Kamal Hall": {
