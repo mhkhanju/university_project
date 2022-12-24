@@ -393,9 +393,317 @@ final OfficeInfo = {
         name: " Dr. Mohammad Hanif Ali, B.Sc(JU), MSc.(JU), PhD(UK) ",
         number: " ",
         other: "Director"),
-  }
+    " Additional Teacher-in-Charge, University Library  ": Person(
+        department: "  ",
+        designation: " ",
+        email: " mskaiser@juniv.edu",
+        name: " Dr. M. Shamim Kaiser ",
+        number: "01711932323 ",
+        other: " Additional Teacher-in-Charge, University Library "),
 
-  " ":{
+    " Deputy Librarian, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " shuvohr97@gmail.com ",
+        name: " Md. Rezaul Haque ",
+        number: " 01927369402 ",
+        other: "Deputy Librarian, University Library "),
+    " Deputy Register, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " badrulalam62@gmail.com",
+        name: " Md. Bodrul Alam",
+        number: " 01922803361 ",
+        other: " Deputy Register, University Library"),
+    " Deputy Librarian,, University Library(LPR)": Person(
+        department: "  ",
+        designation: " ",
+        email: " akhiljubd@gmail.com",
+        name: " Roy Akhil Chandro ",
+        number: " 01718957698 ",
+        other: " Deputy Librarian,, University Library(LPR)"),
+    " Deputy Librarian, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu ",
+        name: " Md. Sadek Khandakar ",
+        number: " ",
+        other: " Deputy Librarian, University Library"),
+    " Assistant Librarian, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "tauhiduljubd@gmail.com ",
+        name: " Md. Tauhidul Islam",
+        number: " 01866371854",
+        other: " Assistant Librarian, University Library"),
+    " Assistant Librarian, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: " hkchowdhury016@juniv.edu",
+        name: " Md. Habibe Kibria Chawdhury",
+        number: " 01812283752 ",
+        other: " Assistant Librarian, University Library"),
+    " Assistant Register, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu ",
+        name: " Md. Omar Ali ",
+        number: " 01830568978 ",
+        other: " Assistant Register, University Library "),
+    " Administrative Officer, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: "nazmabegum.ju@gmail.com ",
+        name: " Mrs. Nazma Begum",
+        number: " 01681676624",
+        other: " Administrative Officer, University Library "),
+    " Deputy Assistant Librarian, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " bodiul.lib@gmail.com",
+        name: " Md. Bodiul Alam",
+        number: " 01933320262",
+        other: "Deputy Assistant Librarian, University Library "),
+    " Deputy Assistant Librarian, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "parvinjesmin34@gmail.com ",
+        name: " Mrs. Jesmin Parvin",
+        number: " 01911583197",
+        other: " "),
+    "Deputy Assistant Librarian, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: "  mmrahman.ju6@gmail.com",
+        name: " Md. Mokhlesur Rahman",
+        number: " 01911706722",
+        other: " "),
+    " Assitant Programmer, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "asstprgmr.lbry@juniv.edu ",
+        name: "Md. Abdur Rahaman ",
+        number: "01914553408 ",
+        other: " "),
+
+    " Technical Officer(Library), University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " shimullibju@gmail.com",
+        name: " Shimul Kumar Barua",
+        number: "01731511729 ",
+        other: " "),
+
+    " Technical Officer(Library), University Library, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " farukjubd@gmail.com",
+        name: "Md. Faruk Hossain ",
+        number: "01752273571 ",
+        other: " "),
+
+    "Senior Sorter (Grade-3), University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: "Md. Saidur Rahman ",
+        number: " 01747817455",
+        other: " "),
+    " Upper Divission Assistant, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu ",
+        name: "Mrs. Parvin Akhter ",
+        number: "01716858849 ",
+        other: " "),
+    " Senior Book-Sorter (Grade-1), University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu",
+        name: "Md. Mojibur Rahman",
+        number: "01918657462 ",
+        other: " "),
+    " Upper Division Assistant, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " gazimirajulislam74@gmail.com",
+        name: " Gazi Merajul Islam",
+        number: " 01712642653",
+        other: " "),
+    " Senior Book-Sorter (Grade-1), University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu ",
+        name: "Md. Badiujjaman ",
+        number: " 01781230168",
+        other: " "),
+    " Senior Sorter (Grade-1), University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: " Biplob Kumar Sarkar",
+        number: " 01883072006",
+        other: " "),
+    " Senior Cleaner, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu",
+        name: "Mrs. Delowara Khatun ",
+        number: "01754143710 ",
+        other: " "),
+    " Senior Gardenar, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu ",
+        name: " Md. Abdul Motaleb",
+        number: "0190114491 ",
+        other: " "),
+    " Senior Book-Sorter (Grade-1), University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " masud8386@gmail.com",
+        name: "Md. Masud Rana ",
+        number: "01919349399 ",
+        other: " "),
+    " Senior Swiper (Grade-2), University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "sreegonesh8@gmail.com ",
+        name: " Sree Gonesh",
+        number: " 01680248591",
+        other: " "),
+    "Senior Sorter, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: "Rezowana Rahman ",
+        number: " 01720644483",
+        other: " "),
+    " Senior Assistant Book Binder, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu ",
+        name: "Md. Abdul Based ",
+        number: "01711141547 ",
+        other: " "),
+    "Senior Book-Sorter, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: " Md. Abdul Alim",
+        number: " 01821734678",
+        other: " "),
+    "Assistant Book Binder, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: " Md. Amirul Islam",
+        number: " 01912163275",
+        other: " "),
+    " Book-Sorter, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " kamalju26@gmail.com",
+        name: " Md. Kamal Hossain",
+        number: "01712489345 ",
+        other: " "),
+    " Book-Sorter, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu ",
+        name: "Md. Ali Hossain ",
+        number: "01724812227 ",
+        other: " "),
+    " Electrician, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " gaziur71@gmail.com",
+        name: " Md. Gaziur Rahaman",
+        number: " 01745462507",
+        other: " "),
+    "Cleaner, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: "  example@juniv.edu",
+        name: " Jahanara Akhter",
+        number: " 01819050594",
+        other: " "),
+    " Cleaner, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "islammdnurul505@gmail.com ",
+        name: " Md. Nurul Islam",
+        number: "01953450876 ",
+        other: " "),
+    " Peon, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: " Md. Kamruzzaman",
+        number: " 01724986377",
+        other: " "),
+    "Cleaner, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: "Bibi Sahara Banu ",
+        number: "01789659247",
+        other: " "),
+    " Swiper, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: " Md. Mizanur Rahaman",
+        number: " 01961817309",
+        other: " "),
+    " Peon, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "computersir03@gmail.com ",
+        name: " Sree Prosanto Rajbongshi",
+        number: "01994005856 ",
+        other: " "),
+
+    " Cleaner, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: " Rubina Akther",
+        number: " 01874739437",
+        other: " "),
+
+    " Cleaner, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: "Maidul Islam (Mamun) ",
+        number: " 01913324024",
+        other: " "),
+
+    "Swiper, University Library ": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu ",
+        name: " Sree Trinad",
+        number: " 01955323756",
+        other: " "),
+
+    " Cleaner, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: "example@juniv.edu ",
+        name: " Sree Polash Chandro Sarkar",
+        number: "01953652872 ",
+        other: " "),
+
+    " Cleaner, University Library": Person(
+        department: "  ",
+        designation: " ",
+        email: " example@juniv.edu",
+        name: " Mofizul Islam(Saddam)",
+        number: "01909045700 ",
+        other: " "),
+
     " ": Person(
         department: "  ",
         designation: " ",
@@ -403,25 +711,78 @@ final OfficeInfo = {
         name: " ",
         number: " ",
         other: " "),
+
+
+
+
+
+
+
+
+
   }
 
-  " ":{
-    " ": Person(
+  " Science Workshop":{
+    " Director": Person(
         department: "  ",
         designation: " ",
         email: " ",
-        name: " ",
+        name: "Professor Dr. Rabindra Chandra Singha ",
         number: " ",
+        other: " "),
+    " Senior Mechanical Engineer": Person(
+        department: "  ",
+        designation: " ",
+        email: "mashiur1201@gmail.com ",
+        name: " Md. Mashiur Rahman",
+        number: " ",
+        other: " "),
+    " Chief Mechanical Engineer": Person(
+        department: "  ",
+        designation: " ",
+        email: " mostofaju1959@gmail.com",
+        name: " Golam Mostofa",
+        number: " ",
+        other: " "),
+    " Teacher in-charge": Person(
+        department: "  ",
+        designation: " ",
+        email: " ",
+        name: " Professor Dr. Rabindra Chandra Singha",
+        number: " Office Phone: 7791045-51 Ext.1501",
+        other: " "),
+
+
+
+
+  }
+
+  " Transport Office":{
+    "Director ": Person(
+        department: " Department of Public Administration ",
+        designation: " Professor",
+        email: "msrahman1977@juniv.edu ",
+        name: " Dr. Muhammad Sayadur Rahman",
+        number: " 8801716547674",
         other: " "),
   }
 
-  " ":{
-    " ": Person(
-        department: "  ",
-        designation: " ",
-        email: " ",
-        name: " ",
-        number: " ",
+  " BNCC":{
+    " Teacher in Charge": Person(
+        department: " Department of Marketing ",
+        designation: "Associate Professor ",
+        email: "rakibmkt@juniv.edu  ",
+        name: " Md. Rakibul Hassan",
+        number: "8801713518911",
+        other: " "),
+  }
+  " Rover Scout":{
+    " Teacher-In-Charge": Person(
+        department: "  Department of Government & Politics",
+        designation: " Assistant Professor",
+        email: " k.zaman@juniv.edu",
+        name: "Muhammad Kamruzzaman ",
+        number: " 01773215857",
         other: " "),
   }
 
